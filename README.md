@@ -10,7 +10,7 @@ The architecture is overly complicated for the sake of exploring various communi
 
 ### Demo
 
-[Video Link](https://www.youtube.com/watch?v=aiumIkWYndo&list=PLhNVyAoMSev1YofolmZ8Z_ZA57wt0s-IW)
+[Video Link](https://www.youtube.com/watch?v=aiumIkWYndo)
 
 ### Codes
 
